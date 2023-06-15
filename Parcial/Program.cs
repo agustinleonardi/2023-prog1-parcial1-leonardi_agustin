@@ -1,5 +1,6 @@
 ﻿using System;
 using BibliotecaDeClases;
+
 namespace Parcial;
 class Program
 {
